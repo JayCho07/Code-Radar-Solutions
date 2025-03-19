@@ -1,5 +1,5 @@
 // Your code here...
-#incllude <stdio.h>
+#include <stdio.h>
 int main()
 {
     char n;
