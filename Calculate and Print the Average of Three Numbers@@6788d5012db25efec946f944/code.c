@@ -6,5 +6,5 @@ int main()
     scanf("d %d %d", &a,&b,&c);
 
     int sum=a+b+c;
-    printf("Average: %.2f", sum/3);
+    printf("Average: %d", sum/3);
 }
