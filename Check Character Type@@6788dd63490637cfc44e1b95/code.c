@@ -7,7 +7,7 @@ int main()
 
     if (c>='a' && c<='z')
     {
-        if (c=='a'||c=='e'||c=='i'||c=='o'||c=='u')
+        if (c=='a'||c=='e'||c=='i'||c=='O'||c=='u')
         {
             printf("Vowel");
         }
