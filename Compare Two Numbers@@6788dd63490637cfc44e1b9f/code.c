@@ -16,8 +16,8 @@ int main()
             printf("First");
         }
         else 
-        (
+        {
             printf("Second");
-        )
+        }
     }
 }
