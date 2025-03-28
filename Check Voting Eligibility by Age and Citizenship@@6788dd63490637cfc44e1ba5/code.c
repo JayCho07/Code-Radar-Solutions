@@ -17,5 +17,5 @@ int main()
     int age, citi;
     scanf("%d %d", &age, &citi);
 
-    elig(a,b);
+    elig(age,citi);
 }
