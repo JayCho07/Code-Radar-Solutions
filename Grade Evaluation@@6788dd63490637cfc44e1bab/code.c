@@ -20,7 +20,7 @@ int grade(char c)
         printf("Fail");
         break;
         default:
-        printf("Invalid Greade");
+        printf("Invalid Grade");
         break;
     }
 }
