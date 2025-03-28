@@ -1,4 +1,5 @@
 // Your code here...
+#include <stdio.h>
 int day(int n)
 {
     switch(n)
