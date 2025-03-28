@@ -10,6 +10,10 @@ int sign(int a, int b)
     {
         printf("Same Sign");
     }
+    else
+    {
+        printf("Different Sign");
+    }
 }
 
 int main()
