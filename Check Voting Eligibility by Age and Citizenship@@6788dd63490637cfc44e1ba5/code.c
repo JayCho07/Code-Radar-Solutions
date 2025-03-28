@@ -8,7 +8,7 @@ int elig(int age, int citi)
     }
     else
     {
-        printf("Not eligible");
+        printf("Not Eligible");
     }
 }
 
