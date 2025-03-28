@@ -1,6 +1,6 @@
 // Your code here...
 #include <stdio.h>
-int dinm(int n); 
+int dinm(int n)
 {
     switch(n)
     {
