@@ -5,7 +5,7 @@ int calc(int a, int b, char c)
     switch(c)
     {
         case '+':
-        printf("%", a+b);
+        printf("%d", a+b);
         break;
         case '-':
         printf("%d", a-b);
