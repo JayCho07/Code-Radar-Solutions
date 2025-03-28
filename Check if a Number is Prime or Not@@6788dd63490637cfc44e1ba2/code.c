@@ -8,6 +8,7 @@ int prime(int n)
         if (n%i==0)
         {
             printf("Not Prime");
+            break;
         }
     }
 
