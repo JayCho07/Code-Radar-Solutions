@@ -6,10 +6,10 @@ int main()
     scanf("%d", &a);
     if (a>0)
     {
-        printf("Not Freezing");
+        printf("Above Freezing");
     }
     else
     {
-        printf("Above Freezing");
+        printf("Freezing");
     }
 }
