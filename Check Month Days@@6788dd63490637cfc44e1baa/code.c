@@ -41,7 +41,7 @@ int dinm(int n)
         printf("%d", 31);
         break;
         default:
-        printf("Invalid");
+        printf("Invalid month");
         break;
     }
 }
