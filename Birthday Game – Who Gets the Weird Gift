@@ -2,5 +2,5 @@
 #include <stdio.h>
 int main()
 {
-    printf("Ashok chitkara teri maa ki chut")
+    printf("Ashok chitkara teri maa ki chut");
 }
